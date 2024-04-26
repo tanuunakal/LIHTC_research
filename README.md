@@ -1,1 +1,2 @@
 # LIHTC_research
+This repository hosts the codebase for a research project focused on extracting and analyzing data from Low-Income Housing Tax Credit (LIHTC) applications. The project aims to enhance understanding and decision-making in housing development and urban planning. Key accomplishments include the extraction of 105 fields from 248 applications, a deep dive analysis on geographical coordinates, and the creation of insightful visualizations. The codebase provided here facilitates transparency and collaboration in furthering research efforts in this domain.
